@@ -5,3 +5,4 @@ data/*.db-*
 .env*
 !.env.example
 npm-debug.log*
+tsconfig.tsbuildinfo
